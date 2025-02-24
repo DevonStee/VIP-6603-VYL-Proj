@@ -1,0 +1,9 @@
+---------------------------------------
+Begin Slurm Prolog: Feb-23-2025 11:51:59
+Job ID:    1356650
+User ID:   jyan389
+Account:   ece
+Job name:  gan_benchmark
+Partition: ice-gpu
+QOS:       coe-ice
+---------------------------------------
